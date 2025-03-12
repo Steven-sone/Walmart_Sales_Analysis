@@ -57,8 +57,10 @@ Feature engineering allows us to create new columns from existing data, adding m
 
 Time of Day:
 Add a new column called time_of_day to categorize sales based on Morning, Afternoon, and Evening. This helps us identify which part of the day generates the most sales.
+
 Day of the Week:
 Add a column named day_name that extracts the day of the week from the transaction date (e.g., Mon, Tue, Wed, Thu, Fri). This provides insights into the busiest days of the week for each branch.
+
 Month of the Year:
 Add a new column month_name that extracts the month (e.g., Jan, Feb, Mar). This helps in determining which month generates the most sales and profit.
 
